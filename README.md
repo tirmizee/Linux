@@ -8,6 +8,8 @@
 
 #### Linux File System
 
+![linux-filesystem](https://user-images.githubusercontent.com/15135199/100316088-66e4f380-2fec-11eb-9566-b1bea2de44bb.png)
+
 - Commands = /usr/bin
 - Attached Device = /dev
 - Applications = /etc, /var
