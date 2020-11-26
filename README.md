@@ -20,6 +20,13 @@
 
       sudo lsof -i -P -n | grep LISTEN
 
+### Netstat command
+
+- -a : Shows all sockets
+- -p : Show related PID
+- -t : TCP
+- -u : UDP
+
 ### Reference
 
 - https://en.wikipedia.org/wiki/List_of_Unix_commands
