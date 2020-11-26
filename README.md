@@ -1,4 +1,4 @@
-# Unix-Command
+# Linux-Command
 
 ### Reference
 
