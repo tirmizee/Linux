@@ -2,7 +2,8 @@
 
 #### Important things to remember
 
-- linux มีบัญชีผู้ดูแลระบบขั้นสูง "root"
+- Linux มีบัญชีผู้ดูแลระบบขั้นสูง "root"
+- Linux เป็นระบบที่คำนึงถึงตัวพิมพ์เล็กและใหญ่
 
 ### Reference
 
