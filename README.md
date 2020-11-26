@@ -14,6 +14,12 @@
 - Attached Device = /dev
 - Applications = /etc, /var
 
+### Commands
+
+- Check if port is in use
+
+      sudo lsof -i -P -n | grep LISTEN
+
 ### Reference
 
 - https://en.wikipedia.org/wiki/List_of_Unix_commands
