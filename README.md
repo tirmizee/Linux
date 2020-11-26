@@ -1,6 +1,8 @@
 # Linux-Command
 
-#### linux มีบัญชีผู้ดูแลระบบขั้นสูง "root"
+#### Important things to remember
+
+- linux มีบัญชีผู้ดูแลระบบขั้นสูง "root"
 
 ### Reference
 
