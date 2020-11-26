@@ -10,6 +10,7 @@
 
 - Commands = /usr/bin
 - Attached Device = /dev
+- Applications = /etc, /var
 
 ### Reference
 
