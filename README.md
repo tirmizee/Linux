@@ -20,6 +20,10 @@
 
       sudo lsof -i -P -n | grep LISTEN
 
+- คำสั่งสำหรับแสดง Directory ที่เราใช้งานอยู่ (pwd ย่อมาจากคำว่า Print Working Directory)
+
+      pwd 
+
 ### Netstat command
 
 - -a : Shows all sockets
