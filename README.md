@@ -28,6 +28,11 @@
 
       hostname 
       hostnamectl
+      
+ - Vim
+ 
+![Capture](https://user-images.githubusercontent.com/15135199/111895488-6e218880-8a45-11eb-9dfe-5ad21f8ea040.JPG)
+
 
 ### Netstat command
 
