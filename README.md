@@ -30,9 +30,13 @@
       hostnamectl
       
  - Vim
- 
+
 ![Capture](https://user-images.githubusercontent.com/15135199/111895488-6e218880-8a45-11eb-9dfe-5ad21f8ea040.JPG)
 
+ 
+### Yum command
+
+[rh_yum_cheatsheet_1214_jcs_print-1.pdf](https://github.com/tirmizee/Linux-Command/files/6177563/rh_yum_cheatsheet_1214_jcs_print-1.pdf)
 
 ### Netstat command
 
