@@ -24,6 +24,11 @@
 
       pwd 
 
+- Find Out My Machine Name/Hostname
+
+      hostname 
+      hostnamectl
+
 ### Netstat command
 
 - -a : Shows all sockets
