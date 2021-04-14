@@ -5,6 +5,8 @@
 
 ### Linux “Distro” คืออะไร
 
+คุณอาจได้ยินคำนี้บ่อยมากเมื่อพูดถึง Linux:“ distro” (ย่อมาจาก distribution)
+
 
 ### Reference 
 
