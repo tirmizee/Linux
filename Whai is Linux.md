@@ -16,6 +16,10 @@ Windows มี kernel ของตัวเองและ macOS ก็มีข
 
 <p>การสร้าง "distros" ของ "distros" เราเรียกกลุ่มของ "distros" ที่มีพื้นฐานมาจาก "distros" เดียวกันว่า "family" ของ "distros"<p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/15135199/114679645-8fb91b80-9d36-11eb-8137-d698ed262333.JPG" width="600">
+</p>
+
 ### Reference 
 
 - https://thespielblog.com/posts/starting-linux-hard-mode-p1/
