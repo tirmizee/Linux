@@ -4,3 +4,8 @@
 <p>Linux เป็นระบบปฏิบัติการที่มีความยืดหยุ่นสูงและคุณสามารถกำหนดค่าได้ตามต้องการ นั่นหมายความว่าถ้าคุณมาจาก Windows คุณสามารถทำให้ Linux ทำงานได้เหมือนกับ Windows หากคุณมาจาก macOS คุณสามารถทำให้ Linux ทำหน้าที่เช่นนั้นได้เช่นกัน</p>
 
 ### Linux “Distro” คืออะไร
+
+
+### Reference 
+
+- https://thespielblog.com/posts/starting-linux-hard-mode-p1/
