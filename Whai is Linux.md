@@ -20,6 +20,8 @@ Windows มี kernel ของตัวเองและ macOS ก็มีข
   <img src="https://user-images.githubusercontent.com/15135199/114679645-8fb91b80-9d36-11eb-8137-d698ed262333.JPG" width="600">
 </p>
 
+### Package Managers
+
 ### Reference 
 
 - https://thespielblog.com/posts/starting-linux-hard-mode-p1/
