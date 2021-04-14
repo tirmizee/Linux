@@ -22,6 +22,8 @@ Windows มี kernel ของตัวเองและ macOS ก็มีข
 
 ### Package Managers
 
+### The Shell
+
 ### Reference 
 
 - https://thespielblog.com/posts/starting-linux-hard-mode-p1/
