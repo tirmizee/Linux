@@ -1,4 +1,4 @@
-# Linux-Command
+# Linux
 
 #### Important things to remember
 
