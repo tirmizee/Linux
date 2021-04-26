@@ -51,3 +51,4 @@
 
 - https://en.wikipedia.org/wiki/List_of_Unix_commands
 - https://linuxize.com/post/how-to-remove-files-and-directories-using-linux-command-line/
+- https://www.youtube.com/watch?v=XiPJkdwrFnA
