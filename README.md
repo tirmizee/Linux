@@ -29,6 +29,8 @@
       hostname 
       hostnamectl
       
+- chmod เป็นคำสั่งบน Linux ที่ใช้สำหรับกำหนดสิทธิ์ read, write หรือ execute ให้กับ file หรือ directory ว่าจะให้มีสิทธิ์ใช้งานแบบไหน และใช้งานโดยใครได้บ้าง
+      
  - Vim
 
 ![Capture](https://user-images.githubusercontent.com/15135199/111895488-6e218880-8a45-11eb-9dfe-5ad21f8ea040.JPG)
