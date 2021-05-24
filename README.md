@@ -14,40 +14,7 @@
 - Attached Device = /dev
 - Applications = /etc, /var
 
-### Commands
 
-- Check if port is in use
-
-      sudo lsof -i -P -n | grep LISTEN
-
-- คำสั่งสำหรับแสดง Directory ที่เราใช้งานอยู่ (pwd ย่อมาจากคำว่า Print Working Directory)
-
-      pwd 
-
-- Find Out My Machine Name/Hostname
-
-      hostname 
-      hostnamectl
-      
-- chmod เป็นคำสั่งบน Linux ที่ใช้สำหรับกำหนดสิทธิ์ read, write หรือ execute ให้กับ file หรือ directory ว่าจะให้มีสิทธิ์ใช้งานแบบไหน และใช้งานโดยใครได้บ้าง
-      
- - Vim
-
-![Capture](https://user-images.githubusercontent.com/15135199/111895488-6e218880-8a45-11eb-9dfe-5ad21f8ea040.JPG)
-
- 
-### Yum command
-
-[rh_yum_cheatsheet_1214_jcs_print-1.pdf](https://github.com/tirmizee/Linux-Command/files/6177563/rh_yum_cheatsheet_1214_jcs_print-1.pdf)
-
-### Netstat command
-
-- -a : Shows all sockets
-- -p : Show related PID
-- -t : TCP
-- -u : UDP
-
-      netstat -ptau
 
 ### Reference
 
