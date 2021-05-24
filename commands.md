@@ -56,6 +56,9 @@
 - ใช้ - ตามด้วยชื่อย่อ
 - ใช้ -- ตามด้วยชื่อเต็ม
 
+      ls -a
+      ls --all
+
 ### Reference
 
 - https://linux.die.net/man
