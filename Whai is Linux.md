@@ -24,6 +24,8 @@ Windows มี kernel ของตัวเองและ macOS ก็มีข
 
 ### The Shell
 
+  Shell คือล่าม(interpreter) สำหรับ Linux command
+
 ### Reference 
 
 - https://thespielblog.com/posts/starting-linux-hard-mode-p1/
