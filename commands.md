@@ -46,6 +46,10 @@
 คำสั่งแสดงเส้นทางของ executable file.
 
 
+#### hostname
+
+      hostname -i
+
 #### man command
 
 ใช้เพื่อแสดง user manual ของคำสั่งใด ๆ ที่เราสามารถใช้บนเทอร์มินัล
