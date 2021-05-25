@@ -90,6 +90,8 @@
 
       ls -a
       ls --all
+      ls -l
+      ls -la
 
 ### Shortcut
 
