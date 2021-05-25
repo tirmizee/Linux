@@ -64,6 +64,10 @@
 
       kill 62514
 
+#### cat command
+
+      cat logs.txt
+
 #### man command
 
 ใช้เพื่อแสดง user manual ของคำสั่งใด ๆ ที่เราสามารถใช้บนเทอร์มินัล
