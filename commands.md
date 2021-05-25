@@ -58,6 +58,12 @@
 
 #### mkdir command
 
+- สร้าง directory
+
+      mkdir test
+      
+- สร้าง directory พร้อม subdirectory
+
       mkdir test
 
 #### kill command
