@@ -45,6 +45,8 @@
       ls .
       ls /bin
 
+#### pwd command
+
 #### which command
 
 คำสั่งแสดงเส้นทางของ executable file.
