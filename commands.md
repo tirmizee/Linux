@@ -68,6 +68,16 @@
 
       cat logs.txt
 
+#### rm command
+
+- ลบไฟล์เดียว
+
+      rm log.txt
+      
+- ลบไฟล์ทั้งหมดที่มีนามสกุล .txt โดยใช้ wildcard
+
+      rm *.txt
+
 #### man command
 
 ใช้เพื่อแสดง user manual ของคำสั่งใด ๆ ที่เราสามารถใช้บนเทอร์มินัล
