@@ -64,7 +64,7 @@
       
 - สร้าง directory พร้อม subdirectory
 
-      mkdir test
+      mkdir test/test2
 
 #### kill command
 
