@@ -50,6 +50,10 @@
 
       hostname -i
 
+#### mkdir command
+
+      mkdir test
+
 #### man command
 
 ใช้เพื่อแสดง user manual ของคำสั่งใด ๆ ที่เราสามารถใช้บนเทอร์มินัล
