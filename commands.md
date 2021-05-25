@@ -91,6 +91,11 @@
       ls -a
       ls --all
 
+### Shortcut
+
+- Ctrl + a เลื่อน cursor ไปที่จุดเริ่มต้นของ command 
+- Ctrl + e เลื่อน cursor ไปที่จุดสิ้นสุดของ command 
+
 ### Reference
 
 - https://linux.die.net/man
