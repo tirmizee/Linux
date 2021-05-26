@@ -22,7 +22,8 @@
 - e (Execute)
 - r (Read)
 - w (Write)
-
+- d (Directory)
+- - (non)
 
 
 ### Reference
