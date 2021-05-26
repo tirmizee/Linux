@@ -98,6 +98,10 @@
 
       cp /etc/host.conf backup.conf
 
+- copy /etc directory ไปยัง etc-backup directory
+
+      cp -r /etc etc-backup
+
 #### mv command
 
 #### touch command
