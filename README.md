@@ -1,4 +1,4 @@
-# Linux
+# Linux for beginners
 
 #### Important things to remember
 
