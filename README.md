@@ -19,7 +19,7 @@
 
 <strong>----------</strong>
 
-<span style="background-color: #FFFF00">-</span>---------
+<span style="background-color: red">-</span>---------
 
 ### Reference
 
