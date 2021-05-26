@@ -101,6 +101,10 @@
 
       grep days large-file.txt
 
+- xxx
+
+      ls -l | grep ^l
+
 #### more command
 
 #### rm command
