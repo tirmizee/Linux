@@ -101,7 +101,7 @@
 
       grep days large-file.txt
 
-- xxx
+- filter text ที่ขึ้นต้นด้วย l
 
       ls -l | grep ^l
 
