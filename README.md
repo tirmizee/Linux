@@ -33,7 +33,7 @@
 | - |
 | - |
 
-- หลักที่ 1 ถ้าเป็น l หมายถึง link, - หมายถึง file, d หมายถึง directory
+- หลักที่ 1 (-,d,l) ถ้าเป็น l หมายถึง link, - หมายถึง file, d หมายถึง directory
 
 
 ### Reference
