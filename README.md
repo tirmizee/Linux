@@ -17,6 +17,8 @@
 
 #### Permissions and ownership of the files
 
+<strong>----------</strong>
+
 ### Reference
 
 - https://en.wikipedia.org/wiki/List_of_Unix_commands
