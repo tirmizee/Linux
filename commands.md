@@ -90,6 +90,8 @@
 
       tail -n 5 large-file.txt
 
+#### more command
+
 #### rm command
 
 - ลบไฟล์เดียว
