@@ -191,6 +191,10 @@
 
        chown tirmizee:tirmizee /home/tirmizee/2.txt
 
+- xxx
+
+      chown -R tirmizee:tirmizee /home/tirmizee/temp
+      
 #### man command
 
 ใช้เพื่อแสดง user manual ของคำสั่งใด ๆ ที่เราสามารถใช้บนเทอร์มินัล
