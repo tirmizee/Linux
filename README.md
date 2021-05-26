@@ -23,6 +23,7 @@
 - r (Read)
 - w (Write)
 - d (Directory)
+- l (Symbolic link)
 - <string>-</strong> (non)
 
 
