@@ -74,6 +74,7 @@
 
       cat logs.txt
 
+
 #### head command
 
 - แสดงข้อมูลจาก large-file.txt 2 บรรทัดแรก
@@ -89,6 +90,10 @@
 - แสดงข้อมูลจาก large-file.txt 5 บรรทัดแรก
 
       tail -n 5 large-file.txt
+
+#### grep command
+
+      cat large-file.txt | grep days
 
 #### more command
 
