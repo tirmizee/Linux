@@ -64,3 +64,4 @@
 - https://spalinux.com/2015/06/centos-7-basic-configure-firewall-by-firewall-cmd ( firewall-cmd commands)
 - https://linuxhint.com/cat_command_linux/ ( cat commands)
 - https://www.dwthai.com/dwarticle/?t=4&aid=165&atitle=CHMOD+%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%84%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B1%E0%B8%81+%28Permission+on+Web+Hosting%29 (permission)
+- https://www.youtube.com/watch?v=owLj5Vk_LVI (cron)
