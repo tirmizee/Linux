@@ -88,6 +88,8 @@
 
       rm -r test
 
+#### cp command
+
 #### touch command
 
 #### man command
