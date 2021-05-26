@@ -145,6 +145,8 @@
 
 #### touch command
 
+#### find command
+
 #### history command
 
 #### man command
