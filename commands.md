@@ -76,6 +76,10 @@
 
 #### head command
 
+- แสดงข้อมูลจาก large-file.txt 2 บรรทัดแรก
+
+      head -n 2 large-file.txt
+      
 #### rm command
 
 - ลบไฟล์เดียว
