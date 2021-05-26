@@ -19,6 +19,10 @@
 
 <strong>----------</strong>
 
+- e (Execute)
+- r (Read)
+- w (Write)
+
 
 
 ### Reference
