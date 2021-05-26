@@ -19,7 +19,7 @@
 
 <strong>----------</strong>
 
-<span style="background-color: red">-</span>---------
+<div class="text-red mb-2">-</div>---------
 
 ### Reference
 
