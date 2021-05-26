@@ -105,6 +105,10 @@
 
       ls -l | grep ^l
 
+- filter text ที่สิ้นสุดด้วย ch
+
+      ls -l | grep ch$
+
 #### more command
 
 #### rm command
