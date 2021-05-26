@@ -79,7 +79,13 @@
 - แสดงข้อมูลจาก large-file.txt 2 บรรทัดแรก
 
       head -n 2 large-file.txt
-      
+
+#### tail command
+
+- แสดงขอมูลจาก log.txt แบบ realtime
+
+      tail -f log.txt
+
 #### rm command
 
 - ลบไฟล์เดียว
