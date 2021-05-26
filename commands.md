@@ -194,7 +194,9 @@
 - xxx
 
       chown -R tirmizee:tirmizee /home/tirmizee/temp
-      
+
+#### chmod command
+
 #### man command
 
 ใช้เพื่อแสดง user manual ของคำสั่งใด ๆ ที่เราสามารถใช้บนเทอร์มินัล
