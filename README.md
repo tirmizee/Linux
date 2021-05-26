@@ -31,3 +31,4 @@
 - https://www.liquidweb.com/kb/an-introduction-to-firewalld/#:~:text=firewalld%20uses%20the%20command%20line%20utility%20firewall-cmd%20to,disable%2C%20start%2C%20stop%2C%20and%20restart%20the%20firewalld%20service.
 - https://spalinux.com/2015/06/centos-7-basic-configure-firewall-by-firewall-cmd ( firewall-cmd commands)
 - https://linuxhint.com/cat_command_linux/ ( cat commands)
+- https://www.dwthai.com/dwarticle/?t=4&aid=165&atitle=CHMOD+%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%84%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B1%E0%B8%81+%28Permission+on+Web+Hosting%29 (permission)
