@@ -74,6 +74,8 @@
 
       cat logs.txt
 
+#### head command
+
 #### rm command
 
 - ลบไฟล์เดียว
