@@ -23,7 +23,7 @@
 - r (Read)
 - w (Write)
 - d (Directory)
-- - (non)
+- <string>-</strong> (non)
 
 
 ### Reference
