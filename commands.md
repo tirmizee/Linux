@@ -1,6 +1,8 @@
 
 ### Commands
 
+#### bash 
+
       root@630a1f8f0dcd 
    
 - root คือ user 
@@ -202,6 +204,10 @@
       chmod u+x script.sh
 
 #### export command
+
+#### apt-get command
+
+#### apt-cache command
 
 #### man command
 
