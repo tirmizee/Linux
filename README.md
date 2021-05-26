@@ -19,7 +19,7 @@
 
 <strong>----------</strong>
 
-<mark>-</mark>---------
+<span style="background-color: #FFFF00">-</span>---------
 
 ### Reference
 
