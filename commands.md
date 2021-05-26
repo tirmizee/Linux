@@ -154,7 +154,9 @@
 - size
 
       find / -type f -size +1M -ls
-     
+
+#### tar command
+
 #### history command
 
 #### man command
