@@ -45,6 +45,8 @@
       ls .
       ls /bin
 
+#### ln command
+
 #### pwd command
 
 #### which command
