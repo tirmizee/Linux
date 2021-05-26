@@ -19,7 +19,7 @@
 
 <strong>----------</strong>
 
-<a class="link-gray-dark"  href="#url">-</a>---------
+
 
 ### Reference
 
