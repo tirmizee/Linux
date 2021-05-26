@@ -163,10 +163,22 @@
 
 #### useradd command
 
+- xxxx
+
+      useradd -m pratya
+
 #### passwd command
+
+- xxxx
+
+      passwd pratya
 
 #### userdel command
 
+- xxxx
+
+      userdel pratya
+      
 #### man command
 
 ใช้เพื่อแสดง user manual ของคำสั่งใด ๆ ที่เราสามารถใช้บนเทอร์มินัล
