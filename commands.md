@@ -147,7 +147,7 @@
 
 #### find command
 
-- ค้นหาชื่อ file ที่มี type เป็น txt จาก directory ปัจจุบัน
+- ค้นหาชื่อ file ที่เป็น txt จาก directory ปัจจุบัน
 
       find . -name "*.txt"
 
