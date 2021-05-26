@@ -2,7 +2,6 @@
 
 #### Important things to remember
 
-- Linux เป็นระบบที่คำนึงถึงตัวพิมพ์เล็กและใหญ่
 - Linux มีบัญชีผู้ดูแลระบบขั้นสูง "root"
 - "root" เป็น account สูงสุดที่สามารถสร้างบัญชีลบแก้ไขและทำการเปลี่ยนแปลงระบบได้
 
@@ -16,7 +15,7 @@
 - Attached Device = /dev
 - Applications = /etc, /var
 
-
+#### Permissions and ownership of the files
 
 ### Reference
 
