@@ -90,9 +90,13 @@
 
 #### cp command
 
-- copy file source.txt ไปยัง file ใหม่ชื่อ backup.txt
+- copy file source.txt ไปยัง file backup.txt
 
       cp source.txt backuo.txt
+
+- copy file จาก path /etc/host.conf ไปยัง file backup.conf
+
+      cp /etc/host.conf backup.conf
 
 #### mv command
 
