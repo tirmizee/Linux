@@ -157,6 +157,8 @@
 
 #### tar command
 
+#### gzip command
+
 #### history command
 
 #### man command
