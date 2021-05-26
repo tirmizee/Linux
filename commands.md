@@ -151,6 +151,10 @@
 
       find . -name "*.txt"
 
+- size
+
+      find / -type f -size +1M -ls
+     
 #### history command
 
 #### man command
