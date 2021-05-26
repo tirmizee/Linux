@@ -201,7 +201,7 @@
 
       chmod u+x script.sh
 
-#### export
+#### export command
 
 #### man command
 
