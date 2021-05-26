@@ -102,10 +102,11 @@
 
 #### touch command
 
+#### history command
+
 #### man command
 
 ใช้เพื่อแสดง user manual ของคำสั่งใด ๆ ที่เราสามารถใช้บนเทอร์มินัล
-
 
 #### command option
 
