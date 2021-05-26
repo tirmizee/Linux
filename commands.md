@@ -86,6 +86,10 @@
 
       tail -f log.txt
 
+- แสดงข้อมูลจาก large-file.txt 5 บรรทัดแรก
+
+      tail -n 5 large-file.txt
+
 #### rm command
 
 - ลบไฟล์เดียว
