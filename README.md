@@ -29,6 +29,12 @@
 - l (Symbolic link)
 - <string>-</strong> (non)
 
+| 1 |
+| - |
+| - |
+
+- หลักที่ 1 ถ้าเป็น l หมายถึง link, - หมายถึง file, d หมายถึง directory
+
 
 ### Reference
 
