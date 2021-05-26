@@ -90,6 +90,12 @@
 
 #### cp command
 
+- copy file source.txt ไปยัง file ใหม่ชื่อ backup.txt
+
+      cp source.txt backuo.txt
+
+#### mv command
+
 #### touch command
 
 #### man command
