@@ -93,7 +93,13 @@
 
 #### grep command
 
+- xxx
+
       cat large-file.txt | grep days
+
+- xxx
+
+      grep days large-file.txt
 
 #### more command
 
