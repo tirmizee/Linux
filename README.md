@@ -19,7 +19,7 @@
 
 <strong>----------</strong>
 
-<div class="text-red mb-2">-</div>---------
+<a class="link-gray-dark"  href="#url">-</a>---------
 
 ### Reference
 
