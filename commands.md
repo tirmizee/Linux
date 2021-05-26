@@ -197,6 +197,10 @@
 
 #### chmod command
 
+- xxx
+
+      chmod u+x script.sh
+
 #### man command
 
 ใช้เพื่อแสดง user manual ของคำสั่งใด ๆ ที่เราสามารถใช้บนเทอร์มินัล
