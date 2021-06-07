@@ -1,1 +1,4 @@
 
+### Reference
+
+- https://www.pluralsight.com/blog/it-ops/linux-file-permissions
