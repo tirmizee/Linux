@@ -9,11 +9,14 @@ chmod ย่อมาจาก "change mode"
 - g = Group
 - o = Other
 
-#### file type
+#### permission type
 
 - <strong>-</strong> = File
 - d = Directory
 - l = Symbolic link
+- r = read
+- w = write
+- x = execute
 
 #### permission code
 
