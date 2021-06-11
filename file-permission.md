@@ -6,6 +6,12 @@
 - g = Group
 - o = Other
 
+#### file type
+
+- <strong>-</strong> = File
+- d = Directory
+- l = Symbolic link
+
 ##### numberic code
 
 - 0 = No Permission
