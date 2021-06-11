@@ -64,8 +64,8 @@ chmod ย่อมาจาก "change mode"
     มีค่าเท่ากับ --wx-w-rwx
     chmod 327 <filename>
     
-    * หากกำหนดสิทธให้ folder sub folder หรือ file ที่อยู่ใน folder นั้นยังคงเป็นสิทธเดิม
-    หากต้องการเปลี่ยนสิทธของ subfolder ให้ใช้ flag -R ย่อมาจาก Recursive
+    * หากกำหนดสิทธให้ folder เฉพาะสิทธของ folder ที่ระบุเท่านั้นที่ถูกเปลี่นร sub folder หรือ file ที่อยู่ใน folder นั้นยังคงเป็นสิทธเดิม
+    หากต้องการเปลี่ยนสิทธของ subfolder ด้วยให้ใช้ flag -R ย่อมาจาก Recursive
     chmod -R 700 <foldername>
   
 ### Reference
