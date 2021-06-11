@@ -16,7 +16,7 @@
 #### numberic code
 
 - 0 = No Permission
-- 1 = x = Execute
+- 1 = x = Execute หากเป็น file จะสามารถ execute ได้ หากเป็น directory จะสามารถ cd เข้าไปได้
 - 2 = w = Write
 - 4 = r = Read
 
