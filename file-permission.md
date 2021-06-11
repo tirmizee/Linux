@@ -30,6 +30,9 @@ chmod ย่อมาจาก "change mode"
     เพิ่มสิทธ read, write, execute ให้ file
     chmod +rwx <filename>
   
+    ลบสิทธ read, write ให้ file
+    chmod -rw <filename>
+  
 ### Reference
 
 - https://www.pluralsight.com/blog/it-ops/linux-file-permissions
