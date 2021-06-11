@@ -5,7 +5,7 @@ chmod ย่อมาจาก "change mode"
 #### ownership
 
 - a = All
-- u = User
+- u = User 
 - g = Group
 - o = Other
 
@@ -15,12 +15,13 @@ chmod ย่อมาจาก "change mode"
 - d = Directory
 - l = Symbolic link
 
-#### numberic code
+#### permission code
 
 - 0 = No Permission
 - 1 = x = Execute หากเป็น file จะสามารถ run หรือ execute ได้ หากเป็น directory จะสามารถ cd เข้าไปได้
 - 2 = w = Write
 - 4 = r = Read
+
 
 #### วิธีเปลี่ยน permission directory ใน Linux
 
