@@ -1,4 +1,6 @@
-#### command chmod มาจากคำว่า "change mode"
+#### command chmod 
+
+chmod ย่อมาจาก "change mode"
 
 #### ownership
 
