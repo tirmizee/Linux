@@ -1,5 +1,11 @@
 
 
+##### ownership
+
+- u = User
+- g = Group
+- o = Other
+
 ##### numberic code
 
 - 0 = No Permission
