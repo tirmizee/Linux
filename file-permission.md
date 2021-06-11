@@ -1,6 +1,6 @@
 
 
-##### ownership
+#### ownership
 
 - u = User
 - g = Group
@@ -12,7 +12,7 @@
 - d = Directory
 - l = Symbolic link
 
-##### numberic code
+#### numberic code
 
 - 0 = No Permission
 - 1 = x = Execute
