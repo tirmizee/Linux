@@ -2,6 +2,7 @@
 
 #### ownership
 
+- a = All
 - u = User
 - g = Group
 - o = Other
