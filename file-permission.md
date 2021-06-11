@@ -24,6 +24,9 @@ chmod ย่อมาจาก "change mode"
 
 #### วิธีเปลี่ยน permission directory ใน Linux
 
+    u หมายถึง user owner เจ้าของไฟล์
+    g หมายถึง ีuser group
+    o หมายถึง other user ผู้ใช้อื่นๆ
     + หมายถึงเพิ่มสิทธ
     - หมายถึงลบสิทธ
     
