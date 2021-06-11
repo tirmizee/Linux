@@ -25,11 +25,14 @@ chmod ย่อมาจาก "change mode"
 
 #### วิธีเปลี่ยน permission directory ใน Linux
 
+    
     u หมายถึง user owner เจ้าของไฟล์
     g หมายถึง user group
     o หมายถึง other user ผู้ใช้อื่นๆ
+    a หมายถึง ugo หรือทุก user
     + หมายถึงเพิ่มสิทธ
     - หมายถึงลบสิทธ
+    = หมายถึงกำหนดสิทธที่ระบุเท่านั้น 
     
     เพิ่มสิทธ read, write, execute file
     chmod +rwx <filename>
@@ -45,6 +48,9 @@ chmod ย่อมาจาก "change mode"
     
     ลบสิทธ read, write, execute file ให้กับ other user
     chmod o-rwx <filename>
+  
+    กำหนดสิทธ read เท่านั้นให้กับทุก user
+    chmod a=r <filename>
   
 ### Reference
 
