@@ -20,6 +20,8 @@
 - 2 = w = Write
 - 4 = r = Read
 
+#### วิธีเปลี่ยน permission directory ใน Linux
+
 ### Reference
 
 - https://www.pluralsight.com/blog/it-ops/linux-file-permissions
