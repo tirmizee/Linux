@@ -24,6 +24,12 @@ chmod ย่อมาจาก "change mode"
 
 #### วิธีเปลี่ยน permission directory ใน Linux
 
+    + หมายถึงเพิ่มสิทธ
+    - หมายถึงลบสิทธ
+    
+    เพิ่มสิทธ read, write, execute ให้ file
+    chmod +rwx <filename>
+  
 ### Reference
 
 - https://www.pluralsight.com/blog/it-ops/linux-file-permissions
