@@ -52,6 +52,15 @@ chmod ย่อมาจาก "change mode"
     กำหนดสิทธ read เท่านั้นให้กับทุก user
     chmod a=r <filename>
   
+    มีค่าเท่ากับ -rwxrwxrwx
+    chmod 777 <filename>
+    
+    มีค่าเท่ากับ -rwx------
+    chmod 700 <filename>
+    
+    มีค่าเท่ากับ --wx-w-rwx
+    chmod 327 <filename>
+  
 ### Reference
 
 - https://www.pluralsight.com/blog/it-ops/linux-file-permissions
