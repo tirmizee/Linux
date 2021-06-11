@@ -42,6 +42,9 @@ chmod ย่อมาจาก "change mode"
     
     เพิ่มสิทธ read execute file ให้กับ user owner 
     chmod u+rx <filename>
+    
+    ลบสิทธ read, write, execute file ให้กับ other user
+    chmod o-rwx <filename>
   
 ### Reference
 
