@@ -13,7 +13,8 @@
 - /root คือ home directory สำหรับ root user
 - Commands = /usr/bin
 - Attached Device = /dev
-- Applications = /etc, /var
+- Applications = /var
+- System configuration files = /etc
 
 #### Permissions and ownership of the files
 
